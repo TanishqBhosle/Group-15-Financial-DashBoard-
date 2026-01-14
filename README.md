@@ -2,6 +2,7 @@
 
 ## 🎯 Overview
 GroWise is a modern, user-friendly personal finance management platform designed to help users track income, manage expenses, plan investments, and make smarter financial decisions. It ensures a seamless UI/UX experience, requiring minimal clicks for users to access key features—optimized for daily use.
+https://group-15-financial-dash-board-eight.vercel.app/login
 
 ## 🚀 Features
 - 🔐 Secure JWT-based authentication
